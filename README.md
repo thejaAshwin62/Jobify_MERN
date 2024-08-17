@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-<a href="https://jobify-mern-bubi.onrender.com/"><a href="https://ibb.co/5h81vgf"><img src="https://i.ibb.co/WvyHF4Y/jobify.png" alt="jobify" border="0"></a>
+<a href="https://jobify-mern-bubi.onrender.com/"><img src="https://i.ibb.co/WvyHF4Y/jobify.png" alt="jobify" border="0"></a>
   <br />
 
   <div>
